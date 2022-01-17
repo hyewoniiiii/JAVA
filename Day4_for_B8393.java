@@ -15,6 +15,8 @@ public class B8393 {
 		}
 		
 		System.out.println(total);
+		
+		sc.close();
 	}
 
 }
